@@ -1,3 +1,5 @@
 # oracle 镜像
 
-docker pull 
+```
+docker pull registry.cn-hangzhou.aliyuncs.com/clearcodecn/oracle12c
+```
